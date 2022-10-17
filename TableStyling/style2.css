@@ -1,0 +1,16 @@
+div{
+    margin:30px;
+    background-color:#a2cbf5;
+    width:300px;
+    height:300px;
+    border-radius: 10px;
+    box-shadow: 10px 10px lightgrey;
+    /*
+    Time: ~10 mins
+    What went well: most of it went well, creating the html and the colored box 
+    were pretty simple
+    What was difficult: It was a little bit trickier figuring out how to create 
+    the shadow and it took some trial and error to make it look correct and be on the right sides
+    */
+    
+}
